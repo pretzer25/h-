@@ -1,1 +1,3 @@
-Allow from 159.236.334.997 134.976.459.383 159.191.223.254
+	Order Deny,Allow
+	Deny from  159.191.223.254
+	Allow from all
