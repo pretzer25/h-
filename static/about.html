@@ -1,1 +1,93 @@
+<head>
+  <html lang="en">
+  <link rel="icon" type="image/x-icon" href="assets/images/branding/favicon/favicon.png">
+  <title>Classes</title>
+  <link rel="stylesheet" href="/assets/css/particles.css" />
+  <link rel="stylesheet" href="/assets/css/nav.css" />
+  <link rel="stylesheet" href="/assets/css/settings/main2.css"/>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-WKJQ5QHQTJ"></script>
+   <script async src="/assets/js/panic.js"></script>
+  <script src="assets/js/themecontrol.js">
+    window.dataLayer = window.dataLayer || [];
 
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+    gtag("config", "G-WKJQ5QHQTJ");
+  </script>
+</head>
+
+<body>
+  <div class="header2">
+    <br>
+    <a href="/../" class="logo">Interstellar</a>
+    <div class="header2-right">
+      <a href="/">Home</a>
+      <a href="web">Proxy</a>
+      <a href="play">Games</a>
+      <a href="apps">Apps</a>
+      <a href="settings">Settings</a>
+      <a href="about">About</a>
+    </div>
+  </div>
+
+  <body class="classic midnight">
+    <div id="particles-js">
+      <script src="https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js"></script>
+    </div>
+    <div class="row">
+      <div class="card">
+        <div class="container">
+          <div class="title">
+            <h4><b>PH Group Co-Founders:</b></h4>
+          </div>
+          <div>
+          <p>Co-Founders <b>Anonymous</b> and <b>Anonymous</b></p>
+        </div>
+        </div>
+      </div>
+      <div class="card">
+        <div class="container">
+          <div class="title">
+            <h4><b>Interstellar project Contributers:</b></h4>
+          </div>
+          <p>Special Thanks to <b>Anonymous</b>, <b>Anonymous</b></p>
+        </div>
+      </div>
+      <div class="card">
+        <div class="container">
+          <div class="title">
+            <h4><b>Contact Information</b></h4>
+          </div>
+          <form>
+
+          </form>
+        </div>
+      </div>
+
+  </body>
+  <script src="/assets/js/particles.js"></script>
+  <script src="/assets/js/settings/settings.js"></script>
+  <script src="/assets/js/settings/themes.js"></script>
+  <script src="/assets/js/settings/name.js"></script>
+  <script src="/assets/js/settings/changes.js"></script>
+  <script>
+    if (localStorage.getItem('cloak')) {
+      const cloakValue = localStorage.getItem('cloak') === 'true' ? 'true' : 'false';
+      document.getElementById('tab-cloak').value = cloakValue;
+    }
+    document.getElementById('tab-cloak').addEventListener('change', function() {
+      localStorage.setItem('cloak', this.value === 'true' ? 'true' : 'false');
+    });
+  </script>
+  <script>
+    if (localStorage.getItem('Transitions')) {
+      const cloakValue = localStorage.getItem('Transitions') === 'true' ? 'true' : 'false';
+      document.getElementById('tab-cloak').value = cloakValue;
+    }
+    document.getElementById('Transitions').addEventListener('change', function() {
+      localStorage.setItem('Transitions', this.value === 'true' ? 'true' : 'false');
+    });
+  </script>
+</html>
