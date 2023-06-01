@@ -65,6 +65,7 @@ if (cluster.isMaster) {
     { path: "/settings", file: "settings.html" },
     { path: "/donate", file: "donate.html" },
     { path: "/404", file: "404.html" },
+    { path: "/changelog", file: "changelog.html" },
   ];
 
   // Define routes using the routes array
