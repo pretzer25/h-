@@ -60,12 +60,11 @@ if (cluster.isMaster) {
     { path: "/web", file: "web.html" },
     { path: "/play", file: "play.html" },
     { path: "/apps", file: "apps.html" },
-    { path: "/chat", file: "chat.html" },
     { path: "/go", file: "go.html" },
     { path: "/settings", file: "settings.html" },
     { path: "/donate", file: "donate.html" },
     { path: "/404", file: "404.html" },
-    { path: "/changelog", file: "changelog.html" },
+    { path: "/pageindev", file: "pagenotfinishedscreen.html" },
   ];
 
   // Define routes using the routes array
