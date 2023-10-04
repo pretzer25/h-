@@ -12,7 +12,7 @@ Discord server invites:
 https://dsc.gg/gft
 
 https://discord.gg/HWsp4Tukzh
-
+***
 ### Email:  interstellar-modded@myself.com
 
-<img src="static/assets/images/readme/image.png">
+<img src="static/assets/images/readme/readmesample.png">
