@@ -13,6 +13,6 @@ https://dsc.gg/gft
 
 https://discord.gg/HWsp4Tukzh
 ***
-### Email:  interstellar-modded@myself.com
+### Email:  interstellar-modded@myself.com or interstellar-better@arcticmail.com
 
 <img src="static/assets/images/readme/readmesample.png">
