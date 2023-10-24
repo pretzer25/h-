@@ -16,3 +16,6 @@ https://discord.gg/HWsp4Tukzh
 ### Email:  interstellar-modded@myself.com or interstellar-better@arcticmail.com
 
 <img src="static/assets/images/readme/readmesample.png">
+
+# Cool Contributors
+[![Contrib](https://contrib.rocks/image?repo=GameForge-Technologies/interstellar-better)](https://github.com/GameForge-Technologies/interstellar-better/graphs/contributors)
