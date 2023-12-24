@@ -7,11 +7,11 @@
 </head>
 
 <body style="background-color:#111111be;">
-    <h2 style="position:absolute;top:50%;text-align:center;font-family:'Inter', sans-serif;width: 100%;">Redirecting ...</h2>
+    <h2 style="position:absolute;top:25%;text-align:center;font-family:'Inter', sans-serif;width: 100%;">Redirecting ...</h2>
 
     <script>
         const clientId = '8424f71e02839e9c2bab';
-        const redirectUri = '';
+        const redirectUri = 'https://interstellar-better.vercel.app/oauth-redirect.html';
         const scope = 'user';
 
         window.location.replace(`https://github.com/login/oauth/authorize?client_id=${clientId}&redirect_uri=${redirectUri}&scope=${scope}`);
